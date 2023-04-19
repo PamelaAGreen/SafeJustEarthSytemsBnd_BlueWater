@@ -28,7 +28,7 @@ where Water DemandBasin > Available Surface WaterBasin
 Available Surface WaterBasin = Long Term Mean Pristine DischargeBasin * 0.2
 
 
-Where we can't meet safe water needs with surface water, we may be able to rely on groundwater resources to meet these needs. All Groundwater data was provided by Christopher Ndehedehe from Griffith University (c.ndehedehe@griffith.edu.au).Groundwater recharge volumes are summed over river basins for basin-level calculations. We calculate the proportion of groundwater needed to meet the safe water deficits as the ratio of the Safe Water Deficit and the Safely Available Groundwater from Recharge (Fig_DefecitProportion_AllCap.png - Figure A).
+Where we can't meet safe water needs with surface water, we may be able to rely on groundwater resources to meet these needs. All Groundwater data was provided by Christopher Ndehedehe from Griffith University. Groundwater recharge volumes are summed over river basins for basin-level calculations. We calculate the proportion of groundwater needed to meet the safe water deficits as the ratio of the Safe Water Deficit and the Safely Available Groundwater from Recharge (Fig_DefecitProportion_AllCap.png - Figure A).
 
 Proportion of Groundwater Needed to Meet Safe Water Deficit = 
 Safe Water DeficitBasin / Safely Available Groundwater from Recharge Basin
