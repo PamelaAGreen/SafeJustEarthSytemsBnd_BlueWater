@@ -1,14 +1,15 @@
 # SafeJustEarthSytemsBnd_BlueWater
 
 ***
-<font color=red>Title: Safe and Just Earth Systems Boundaries for Surface Water: Living within Earth System Boundaries for Blue Water 
+<font color=red>Title: Safe and Just Earth Systems Boundaries for Blue Water: Safe Water Boundaries for Minimum Access and Groundwater
+ 
 Author: Pamela A. Green  
-Date: February 15, 2023  
+Date: April 19, 2023  
 
-This code was developed between December 1, 2021 and February 14, 2023 by Pamela Green, Senior Research Associate, CUNY Advanced Science Research Center, New York, NY under subcontract to Griffith University.  </font>
+This code was developed between December 1, 2021 and April 19, 2023 by Pamela Green, Senior Research Associate, CUNY Advanced Science Research Center, New York, NY under subcontract to Griffith University.  </font>
 ***
 
-This code represents spatial modelling for development of the safe and just surface water target for Working Group 3 of the Earth Commission for the Earth Commission Long Report and the <i><b>"NAME OF PUBLICATIONS"</b></i> publication. The surface water target includes spatial analysis of population, hydrological alteration and groundwater decline for the analysis of surface just access to surface water.
+This code represents spatial modelling for development of the safe and just surface water target for Working Group 3 of the Earth Commission for the Earth Commission Long Report and the <i><b>"How can we live within the safe and just Earth system boundaries for blue water?"</b></i> publication. The surface water target includes spatial analysis of population, hydrological alteration and groundwater decline for the analysis of surface just access to surface water.
 
 Safe water deficits are defined as the difference between water demand metrics and available surface water. Available surface water is defined as the amount of flow minus what is needed to support natural systems and is calculated as 20% of the long term mean annual pristine discharge volume. Safe water demands are defined by four metrics expressed as volume of demand per capita (Table below). Safe water demands are converted to spatially distributed gridded volumes by multiplying the demand metrics by a distributed population dataset for year 2020 (CIESIN 2018) and then summed over river basins. Long term mean annual discharge and available surface water discharge at basin mouth is used to define integrated water flows for the river basins.
 
