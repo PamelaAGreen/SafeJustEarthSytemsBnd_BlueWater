@@ -1,5 +1,5 @@
 # SafeJustEarthSytemsBnd_BlueWater
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8343035.svg)](https://doi.org/10.5281/zenodo.8343035)
 ***
 <font color=red>Title: Safe and Just Earth Systems Boundaries for Blue Water: Safe Water Boundaries for Minimum Access and Groundwater
  
